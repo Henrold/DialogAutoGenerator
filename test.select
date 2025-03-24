@@ -1,0 +1,4 @@
+TEST
+cd ..\ngoto exit_app
+t1,test 1,echo test 1
+t2,test 2,echo test 2
